@@ -6,7 +6,7 @@ Este é um projeto de chat em tempo real desenvolvido utilizando JavaScript, HTM
 - Autor inicial: [@manualdodev](https://github.com/manualdodev)
 - [@camilajullyane](https://github.com/camilajullyane)
   
-Para testar o chat <a href="https://frontend-j8fp.onrender.com/" target="__blank">clique aqui</a>
+Para testar o chat <a href="https://frontend-j8fp.onrender.com/" target="_blank">clique aqui</a>
 
 
 ![image](https://github.com/camilajullyane/chat-js/assets/134438133/f106812c-0ee6-44ee-a6fd-1bf1656666ed)
